@@ -1,7 +1,7 @@
 'use strict';
 
 var wmdict = undefined;
-fetch('../data/wm_cta.json')
+fetch('data/wm_cta.json')
 .then((response) => response.json())
 .then((json) => {
     wmdict = json;
