@@ -1,12 +1,5 @@
 'use strict';
 
-var wmdict = undefined;
-fetch('js/wm_cta.json')
-.then((response) => response.json())
-.then((json) => {
-    wmdict = json;
-});
-
 var wm_title = document.getElementById('wm_title');
 var wm_description = document.getElementById('wm_description');
 var wm_creatives = document.getElementById('wm_creatives');

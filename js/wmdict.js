@@ -1,5 +1,4 @@
-
-{
+wmdict = {
     "void..": {
         "title": "Microphone streaming",
         "description": "Listening to the watermark",
@@ -42,4 +41,3 @@
 
     }
 }
-
