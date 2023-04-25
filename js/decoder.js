@@ -13,6 +13,7 @@ function linkdea_wm_decoder(decode_handler){
     Module.onRuntimeInitialized = function() {    // Make sure EMSCRIPTEN_BINDINGS are called before we try to use them
 
         var audioSelect = document.querySelector('select#audioSource');
+        var baseFreq = document.getElementById('baseFreq');
         audioSelect.onchange = getStream;
 
         getStream().then(getDevices).then(gotDevices);
@@ -68,10 +69,11 @@ function linkdea_wm_decoder(decode_handler){
 
             var sampleBuilder = new Module.SampleBuilder(sampleRate, bufferLength);
             var freqBands = new Module.vector_float();
-            freqBands.push_back(3500);
+            let _baseFreq = 3500;
+            freqBands.push_back(_baseFreq);
             for(let i=0; i<12; i++) freqBands.push_back(150);
             var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 100, 0, freqBands, 11, 10, 100)
-            console.log('ddd');
+            baseFreq.innerText = `${_baseFreq}`;
         
             function update() {
                 analyser.getFloatTimeDomainData(dataArray);
