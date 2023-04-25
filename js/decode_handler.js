@@ -30,6 +30,8 @@ linkdea_wm_decoder((decoded) => {
         wm_map.innerHTML = `<a href="${wmmeta['url_map']}" >Apple Map</a>`;
     }
 
+    console.log(decoded);
+
     if (is_first_time) {
         is_first_time = false;
         let localObj = localStorage.getItem("saved_wm_meta")

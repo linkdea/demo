@@ -71,6 +71,7 @@ function linkdea_wm_decoder(decode_handler){
             freqBands.push_back(4000);
             for(let i=0; i<12; i++) freqBands.push_back(100);
             var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 100, 0, freqBands, 11, 10, 100)
+            console.log('ddd');
         
             function update() {
                 analyser.getFloatTimeDomainData(dataArray);
