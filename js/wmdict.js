@@ -175,10 +175,10 @@ wmdict = {
         "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 6: Nike as a Marketing Example",
         "description": "Starts - 00:04:40",
-        "src": "",
-        "url_learn": "#",
-        "url_app": "#",
-        "url_map": "#"
+        "src": "../creatives/nike.webp",
+        "url_learn": "https://www.nike.com/",
+        "url_app": "https://apps.apple.com/us/app/nike-shoes-apparel-stories/id1095459556",
+        "url_map": "https://maps.apple.com/?address=377%20Santana%20Row,%20San%20Jose,%20CA%2095128,%20United%20States&auid=3832468590474063611&ll=37.322470,-121.948099&lsp=9902&q=Nike"
     },
     "0000a7": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
