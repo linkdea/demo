@@ -122,7 +122,7 @@ wmdict = {
     },
     "0000a1": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 1: Introduction",
         "description": "Starts - 00:00:00",
         "src": "",
@@ -132,7 +132,7 @@ wmdict = {
     },
     "0000a2": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 2: Back to Basics",
         "description": "Starts - 00:00:23",
         "src": "",
@@ -142,7 +142,7 @@ wmdict = {
     },
     "0000a3": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 3: Simplifying the Product Line",
         "description": "Starts - 00:00:46",
         "src": "",
@@ -152,7 +152,7 @@ wmdict = {
     },
     "0000a4": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 4: Innovating Distribution",
         "description": "Starts - 00:00:46",
         "src": "",
@@ -162,7 +162,7 @@ wmdict = {
     },
     "0000a5": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 5: Marketing about Values",
         "description": "Starts - 00:03:09",
         "src": "",
@@ -172,7 +172,7 @@ wmdict = {
     },
     "0000a6": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 6: Nike as a Marketing Example",
         "description": "Starts - 00:04:40",
         "src": "../creatives/nike.webp",
@@ -182,7 +182,7 @@ wmdict = {
     },
     "0000a7": {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
-        "summary": "The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
+        "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 7: Apple's Advertising",
         "description": "Starts - 00:05:20",
         "src": "",
