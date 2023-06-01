@@ -59,8 +59,8 @@ function linkdea_wm_decoder(decode_handler){
                 findIndex(option => option.text === stream.getAudioTracks()[0].label);
         
             var audioContext;
-            var bufferLength = 1024;
-            let sampleRate = 30000;
+            var bufferLength = 1000;
+            let sampleRate = 24000;
             var audioContext = new (window.AudioContext || window.webkitAudioContext)({sampleRate: sampleRate});
             var analyser = audioContext.createAnalyser();
             audioContext.createMediaStreamSource(stream).connect(analyser);
@@ -68,8 +68,8 @@ function linkdea_wm_decoder(decode_handler){
 
             var sampleBuilder = new Module.SampleBuilder(sampleRate, bufferLength);
             var freqBands = new Module.vector_float();
-            freqBands.push_back(14000);
-            for(let i=0; i<12; i++) freqBands.push_back(50);
+            freqBands.push_back(3500);
+            for(let i=0; i<12; i++) freqBands.push_back(150);
             var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 100, 0, freqBands, 11, 10, 100)
             console.log('ddd');
         
