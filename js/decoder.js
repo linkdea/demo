@@ -68,7 +68,7 @@ function linkdea_wm_decoder(decode_handler){
 
             var sampleBuilder = new Module.SampleBuilder(sampleRate, bufferLength);
             var freqBands = new Module.vector_float();
-            freqBands.push_back(10000);
+            freqBands.push_back(8000);
             for(let i=0; i<12; i++) freqBands.push_back(150);
             var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 100, 0, freqBands, 11, 10, 100)
             console.log('ddd');
