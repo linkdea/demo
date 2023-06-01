@@ -62,7 +62,7 @@ wmdict = {
     },
     "000002": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 2: The Cost of Freedom",
         "description": "Let's just say that I find it hard to get a job ...",
         "src": "",
@@ -72,7 +72,7 @@ wmdict = {
     },
     "000003": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 3: The Invitation",
         "description": "Right here, right now, I put the offer out ...",
         "src": "",
@@ -82,7 +82,7 @@ wmdict = {
     },
     "000004": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 4: Resistance and Contentment",
         "description": "Okay, my friend, you want to cut me in ...",
         "src": "",
@@ -92,7 +92,7 @@ wmdict = {
     },
     "000005": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 5: Debating the Decision",
         "description": "Now is this really how you like to spend your days ...",
         "src": "",
@@ -102,7 +102,7 @@ wmdict = {
     },
     "000006": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 6: Negotiating the Deal",
         "description": "Well, it's intriguing, but to go would cost me greatly ...",
         "src": "../creatives/hired.png",
@@ -112,7 +112,7 @@ wmdict = {
     },
     "000007": {
         "title": "The greatest show man",
-        "summary": "",
+        "summary": "A man invites another to join the circus and teach him how to appeal to high-class individuals. The second man is hesitant, as it could cost him his inheritance and the comfortable life he's accustomed to. They discuss the potential risks and rewards of joining, with the first man offering freedom and a break from conventionality. The second man resists, but they eventually negotiate a partnership, with the second man becoming a junior partner in the circus. Embracing the opportunity, they decide to break free from their metaphorical cages and head to the other side together.",
         "subtitle": "Chapter 7: Embracing the Adventure",
         "description": "What I have is an overcompensated apprentice ...",
         "src": "",
@@ -154,7 +154,7 @@ wmdict = {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
         "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 4: Innovating Distribution",
-        "description": "Starts - 00:00:46",
+        "description": "Starts - 00:01:58",
         "src": "",
         "url_learn": "#",
         "url_app": "#",
