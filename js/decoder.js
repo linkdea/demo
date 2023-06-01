@@ -60,7 +60,7 @@ function linkdea_wm_decoder(decode_handler){
         
             var audioContext;
             var bufferLength = 1024;
-            let sampleRate = 48000;
+            let sampleRate = 32000;
             var audioContext = new (window.AudioContext || window.webkitAudioContext)({sampleRate: sampleRate});
             var analyser = audioContext.createAnalyser();
             audioContext.createMediaStreamSource(stream).connect(analyser);
