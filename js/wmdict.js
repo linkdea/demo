@@ -124,7 +124,7 @@ wmdict = {
         "title": "Steve Jobs - Get Much Simpler, Be Really Clear - Sept. 23, 1997",
         "summary": "<b>Summary:</b> The speaker introduces a new advertising campaign created by Apple. He explains how the company has been working hard to get back to the basics of great products, marketing, and distribution. Apple has simplified its product line and is innovating its distribution channels to better meet customer demand. The speaker emphasizes that marketing is about values and gives examples of how Nike markets its products. Finally, the speaker acknowledges that Apple spends a lot on advertising but it is not apparent in their campaigns",
         "subtitle": "Chapter 1: Introduction",
-        "description": "Starts - 00:04:37",
+        "description": "Starts - 00:00:00",
         "src": "",
         "url_learn": "#",
         "url_app": "#",
