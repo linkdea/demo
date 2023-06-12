@@ -8,6 +8,7 @@ var wm_creatives = document.getElementById('wm_creatives');
 var wm_link = document.getElementById('wm_link');
 var wm_app = document.getElementById('wm_app');
 var wm_map = document.getElementById('wm_map');
+var surf = document.getElementById('surf');
 
 //wm_summary.style.display = 'none';
 //wm_subtitle.style.display = 'none';
@@ -49,6 +50,7 @@ linkdea_wm_decoder((decoded) => {
         }
     }
 
+    surf.innerHTML = decoded;
     if (decoded in wmdict){
         var wmmeta = wmdict[decoded];
         updatePage(wmmeta);
