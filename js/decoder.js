@@ -9,7 +9,7 @@ ga("create", "UA-33848682-1", "auto");
 ga("set", "transport", "beacon");
 ga("send", "pageview");
 
-function linkdea_wm_decoder(decode_handler){
+function aowl_decoder(decode_handler){
     Module.onRuntimeInitialized = function() {    // Make sure EMSCRIPTEN_BINDINGS are called before we try to use them
 
         var audioSelect = document.querySelector('select#audioSource');
@@ -71,15 +71,14 @@ function linkdea_wm_decoder(decode_handler){
             freqBands.push_back(3500);
             for(let i=0; i<12; i++) freqBands.push_back(200);
             var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 50, 0, freqBands, 11, 10, 100)
-            console.log('ddd');
-        
+
             function update() {
                 analyser.getFloatTimeDomainData(dataArray);
                 for (let i=sampleBuilder.buffer_tail_index(dataArray[0], dataArray[1], dataArray[2]); i<dataArray.length; i++){
                     sampleBuilder.push_sample(dataArray[i]);
                     if(segmentDecoder.decode_sample(dataArray[i])){
                         var decoded = segmentDecoder.decoded();
-                        if (decoded.length > 0) {
+                        if (decoded.length > 0 && decoded != segmentDecoder.zero_codes(6)) {
                             decode_handler(decoded);
                         }
                     }
