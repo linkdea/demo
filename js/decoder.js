@@ -9,6 +9,36 @@ ga("create", "UA-33848682-1", "auto");
 ga("set", "transport", "beacon");
 ga("send", "pageview");
 
+let base_len = 50;
+let freq_base = 3500;
+let freq_incr = 200;
+
+// Assuming the URL is https://xxx.com/?num=30&count=10
+let params = new URLSearchParams(window.location.search);
+
+if(params.has('base_len') && !isNaN(params.get('base_len'))) {
+    base_len = Number(params.get('base_len')); // update global variable from the URL
+    console.log(`base_len loaded from URL: ${base_len}`);
+} else {
+    console.log('No base_len parameter found in URL or it is not a number.');
+}
+
+if(params.has('freq_base') && !isNaN(params.get('freq_base'))) {
+    freq_base = Number(params.get('freq_base')); // update global variable from the URL
+    console.log(`freq_base loaded from URL: ${freq_base}`);
+} else {
+    console.log('No freq_base parameter found in URL or it is not a number.');
+}
+
+if(params.has('freq_incr') && !isNaN(params.get('freq_incr'))) {
+    freq_incr = Number(params.get('freq_incr')); // update global variable from the URL
+    console.log(`freq_incr loaded from URL: ${freq_incr}`);
+} else {
+    console.log('No freq_incr parameter found in URL or it is not a number.');
+}
+
+
+
 function aowl_decoder(decode_handler){
     Module.onRuntimeInitialized = function() {    // Make sure EMSCRIPTEN_BINDINGS are called before we try to use them
 
@@ -68,9 +98,9 @@ function aowl_decoder(decode_handler){
 
             var sampleBuilder = new Module.SampleBuilder(sampleRate, bufferLength);
             var freqBands = new Module.vector_float();
-            freqBands.push_back(3500);
-            for(let i=0; i<12; i++) freqBands.push_back(200);
-            var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, 50, 0, freqBands, 11, 10, 100)
+            freqBands.push_back(freq_base);
+            for(let i=0; i<12; i++) freqBands.push_back(freq_incr);
+            var segmentDecoder = new Module.SegmentDecoder(sampleRate, 3, base_len, 0, freqBands, 11, 10, 100)
 
             function update() {
                 analyser.getFloatTimeDomainData(dataArray);
