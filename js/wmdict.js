@@ -125,25 +125,21 @@ wmdict = {
         "subtitle": "Chapter 7: Apple's Advertising",
         "description": "Starts - 00:05:20",
     },
-}
-
-wmcta = {
-    "audi.1": {
-        "src": "../creatives/audi.webp",
-        "url_learn": "https://www.audi.com/en.html",
-        "url_app": "https://apps.apple.com/us/app/audi-on-demand-car-rental/id587128247",
-        "url_map": "https://maps.apple.com/?address=3350%20Stevens%20Creek%20Blvd,%20San%20Jose,%20CA%20%2095117,%20United%20States&auid=9647188736749467794&ll=37.322755,-121.956218&lsp=9902&q=Audi%20Stevens%20Creek"
+    "visi.1": {
+        "title": "Steve Jobs on Virtual Reality (D3, 2005)",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Headphones and Video Experience - 00:00:00 <br>  >>> Headphones provide a great audio experience similar to speakers, but there is no portable equivalent for video. <br><br>Chapter 2: Existing Solutions and Limitations - 00:00:23 <br>  The author acknowledges the existence of large goggles but points out their limitations and impracticality.  <br><br>Chapter 3: Social Implications - 00:00:27 <br>  Wearing large goggles for video experience is not socially acceptable and can negatively impact one's dating prospects. <br> <br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
     },
-    "nike.1": {
-        "src": "../creatives/nike.webp",
-        "url_learn": "https://www.nike.com/",
-        "url_app": "https://apps.apple.com/us/app/nike-shoes-apparel-stories/id1095459556",
-        "url_map": "https://maps.apple.com/?address=377%20Santana%20Row,%20San%20Jose,%20CA%2095128,%20United%20States&auid=3832468590474063611&ll=37.322470,-121.948099&lsp=9902&q=Nike"
+    "visi.2": {
+        "title": "Steve Jobs on Virtual Reality (D3, 2005)",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Headphones and Video Experience - 00:00:00 <br>  Headphones provide a great audio experience similar to speakers, but there is no portable equivalent for video. <br><br>Chapter 2: Existing Solutions and Limitations - 00:00:23 <br>  >>> The author acknowledges the existence of large goggles but points out their limitations and impracticality.  <br><br>Chapter 3: Social Implications - 00:00:27 <br>  Wearing large goggles for video experience is not socially acceptable and can negatively impact one's dating prospects. <br> <br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
     },
-    "QPDNZM": {
-        "src": "../creatives/nike.webp",
-        "url_learn": "https://www.nike.com/",
-        "url_app": "https://apps.apple.com/us/app/nike-shoes-apparel-stories/id1095459556",
-        "url_map": "https://maps.apple.com/?address=377%20Santana%20Row,%20San%20Jose,%20CA%2095128,%20United%20States&auid=3832468590474063611&ll=37.322470,-121.948099&lsp=9902&q=Nike"
-    }
+    "visi.3": {
+        "title": "Steve Jobs on Virtual Reality (D3, 2005)",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Headphones and Video Experience - 00:00:00 <br>  Headphones provide a great audio experience similar to speakers, but there is no portable equivalent for video. <br><br>Chapter 2: Existing Solutions and Limitations - 00:00:23 <br>  The author acknowledges the existence of large goggles but points out their limitations and impracticality.  <br><br>Chapter 3: Social Implications - 00:00:27 <br>  >>> Wearing large goggles for video experience is not socially acceptable and can negatively impact one's dating prospects. <br> <br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
+        "src": "../creatives/vision_pro.jpg",
+        "url_learn": "https://www.apple.com/apple-vision-pro/",
+    },
 }

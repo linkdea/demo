@@ -38,7 +38,6 @@ if(params.has('freq_incr') && !isNaN(params.get('freq_incr'))) {
 }
 
 
-
 function aowl_decoder(decode_handler){
     Module.onRuntimeInitialized = function() {    // Make sure EMSCRIPTEN_BINDINGS are called before we try to use them
 
