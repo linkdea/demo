@@ -142,4 +142,39 @@ wmdict = {
         "src": "../creatives/vision_pro.jpg",
         "url_learn": "https://www.apple.com/apple-vision-pro/",
     },
+    "stan.1": {
+        "title": "Steve Jobs Stanford Commencement Speech 2005",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Connecting the Dots - 00:00:55 <br> The speaker recounts his unconventional path through education, dropping out of college and learning calligraphy, which later influenced the design of the Macintosh computer. He emphasizes the importance of trusting that experiences will connect and make sense in the future, even if they don't immediately. <br><br>Chapter 2: Love and Loss - 00:05:38  <br><br>Chapter 3: Death - 00:09:04 <br><br>Chapter 4: Conclusion - 00:13:08 <br><br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
+        //"src": "../creatives/vision_pro.jpg",
+        //"url_learn": "https://www.apple.com/apple-vision-pro/",
+    },
+    "stan.2": {
+        "title": "Steve Jobs Stanford Commencement Speech 2005",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Connecting the Dots - 00:00:55 <br><br>Chapter 2: Love and Loss - 00:05:38 <br> The speaker shares his experience of founding Apple, being fired, and then starting other successful ventures like Pixar and Next. He stresses the importance of loving what you do and not settling for less. <br><br>Chapter 3: Death - 00:09:04 <br><br>Chapter 4: Conclusion - 00:13:08 <br><br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
+
+        //"src": "../creatives/vision_pro.jpg",
+        //"url_learn": "https://www.apple.com/apple-vision-pro/",
+    },
+    "stan.3": {
+        "title": "Steve Jobs Stanford Commencement Speech 2005",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Connecting the Dots - 00:00:55 <br><br>Chapter 2: Love and Loss - 00:05:38 <br><br>Chapter 3: Death - 00:09:04 <br> The speaker discusses his cancer diagnosis and how facing death made him realize the importance of living one's own life and not being trapped by others' expectations. He encourages the audience to follow their heart and intuition. <br><br>Chapter 4: Conclusion - 00:13:08 <br><br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
+
+        //"src": "../creatives/vision_pro.jpg",
+        //"url_learn": "https://www.apple.com/apple-vision-pro/",
+    },
+    "stan.4": {
+        "title": "Steve Jobs Stanford Commencement Speech 2005",
+        "subtitle": "Table of Contents",
+        "description": "Chapter 1: Connecting the Dots - 00:00:55 <br><br>Chapter 2: Love and Loss - 00:05:38 <br><br>Chapter 3: Death - 00:09:04 <br><br>Chapter 4: Conclusion - 00:13:08 <br> The speaker concludes by referencing the Whole Earth Catalog and its farewell message, 'Stay hungry, stay foolish', which he has adopted as his personal mantra and wishes the same for the audience. <br><br>Summary <br> The text discusses the lack of a portable video equivalent to headphones for audio. It mentions the existence of large goggles but highlights their impracticality. The author suggests that a more convenient solution is needed.",
+
+        "src": "../creatives/coursera.PNG",
+        "url_learn": "https://www.coursera.org/",
+    },
+
+
+
+
 }
